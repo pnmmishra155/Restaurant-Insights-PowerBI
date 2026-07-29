@@ -21,6 +21,13 @@ This project analyzes restaurant data using Power BI to identify customer prefer
 
 ---
 
+## Dashboard Preview
+
+<img width="1151" height="647" alt="image" src="https://github.com/user-attachments/assets/5a103058-3b30-4b08-a5e2-23cb7604c4ff" />
+
+
+
+---
 ## Tools Used
 
 - Microsoft Power BI
@@ -109,15 +116,6 @@ The dataset contains information such as:
 - Sentiment Count
 
 ---
-
-## Dashboard Preview
-
-<img width="1151" height="647" alt="image" src="https://github.com/user-attachments/assets/5a103058-3b30-4b08-a5e2-23cb7604c4ff" />
-
-
-
----
-
 ## Future Improvements
 
 - Customer Segmentation
